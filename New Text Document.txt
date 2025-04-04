@@ -1,0 +1,15 @@
+in frontend folder
+
+//npm create vite@latest    
+// npm i react-router-dom react-hot-toast
+// npm install tailwindcss @tailwindcss/vite
+// npm i -D daisyui@latest
+// npm i axios zustand
+//npm i lucide-react
+// npm i socket.io-client
+
+in backend folder
+// npm init -y
+// npm i express mongoose dotenv jsonwebtoken bcrypt cookie-parser cloudinary socket.io
+// npm i nodemon -D
+// npm i cors
