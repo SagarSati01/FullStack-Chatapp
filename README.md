@@ -38,5 +38,5 @@ A **real-time chat application** built with the **MERN stack** (MongoDB, Express
 ## Author
 
 **Sagar Sati**  
-- GitHub: (https://github.com/SagarSati01/FullStack-Chatapp.git)  
+- GitHub: (https://github.com/SagarSati01)  
 - LinkedIn: [http://www.linkedin.com/in/sagar-01s]
